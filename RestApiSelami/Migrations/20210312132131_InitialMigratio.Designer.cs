@@ -11,7 +11,7 @@ namespace RestApiSelami.Migrations
 {
     [DbContext(typeof(LieuxContext))]
      [Migration("20210312132131_InitialMigratio")]
-    partial class InitialMigratio
+    partial class InitialMigratio{
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
