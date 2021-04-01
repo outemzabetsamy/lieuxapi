@@ -16,6 +16,8 @@ namespace RestApiSelami.Models
         public string Name { get; set; }
 
         public string Adresse { get; set; }
+        public string Photo { get; set; }
+
         
     }
 }
