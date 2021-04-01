@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace RestApiSelami.Migrations
 {
-    public partial class InitialMigration : Migration
+   public partial class InitialMigratio : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
